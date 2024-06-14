@@ -1,5 +1,5 @@
 var respecConfig = {
-    specStatus: "unofficial",
+    specStatus: "base",
     shortName: 'jolux',
     format: 'markdown', 
     latestVersion: null,
